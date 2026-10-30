@@ -27,3 +27,11 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 ### How to Cite it:
 
 **SILVA, Ergon Cugler de Moraes. Web Scraping Extraction of All False Speeches by Jair Messias Bolsonaro from 2019 to 2022 Checked by the Fact-Checking Agency 'Aos Fatos'. (feb) 2023. Available at: <a>https://github.com/ergoncugler/false-speechs-by-bolsonaro/</a>.**
+
+___
+
+## License
+
+The code in this repository are released under the [MIT License](LICENSE). You are free to use and adapt them, provided you give appropriate credit. If this work supports your research, please cite it.
+
+Developed by [Ergon Cugler](https://ergoncugler.com).
